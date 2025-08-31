@@ -4,7 +4,7 @@ My Portfolio Website
 
 Description
 
-This is a simple personal portfolio website created using HTML and CSS.
+This is a simple personal portfolio website created using HTML and CSS, my projects
 The website shows information about me, my skills, my hobbies,  
 It is designed to be simple, neat, and colorful, using mostly HTML with CSS.
 
